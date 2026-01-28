@@ -1,6 +1,29 @@
 This tool was designed for OSINT investigators and in support for Hackers Guild. Amazing company offering bounties
 to help find missing people, items, etc. Highly recommend checking them out at: https://hackers-guild.tech/
 
+**Credits:**
+- Original CLI Tool: OtterBot
+- GUI Version: Sthornberry9
+
+#####################################################################################################################################################################
+
+**TWO WAYS TO RUN:**
+
+**Option A: GUI Version (Recommended for beginners)**
+    python youdork_gui.py
+    
+    - Visual interface with point-and-click controls
+    - All features accessible through buttons and forms
+    - Real-time output display
+    - Dark theme optimized for readability
+
+**Option B: CLI Version (Terminal interface)**
+    python youdork.py
+    
+    - Classic command-line menu system
+    - All original functionality preserved
+    - Can use --help or -h flag for README display
+
 #####################################################################################################################################################################
 
 HOW TO INSTALL (Windows):
@@ -22,8 +45,10 @@ HOW TO INSTALL (Windows):
 5. Install Dependencies.
     pip install -r requirements.txt
 
-6. python youdork.py
-    (add --help or -h to python youdork.py get back to README for help)
+6. Run the application:
+    GUI Version: python youdork_gui.py
+    CLI Version: python youdork.py
+    (add --help or -h to python youdork.py to get back to README for help)
 
 For updates, use:
     git pull
@@ -53,8 +78,10 @@ HOW TO INTALL (Linux):
 4. Install Dependencies.
     pip3 install -r requirements.txt
 
-5. python youdork.py
-    (add --help or -h to python youdork.py get back to README for help)
+5. Run the application:
+    GUI Version: python3 youdork_gui.py
+    CLI Version: python3 youdork.py
+    (add --help or -h to python youdork.py to get back to README for help)
 
 For updates, use:
     git pull
