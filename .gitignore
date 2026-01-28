@@ -169,3 +169,17 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# AI/Dev files
+.github/
+.cursorrules
+.windsurfrules
+.clinerules
+.cursor/
+.windsurf/
+AGENT.md
+AGENTS.md
+CLAUDE.md
+
+# Git files
+.gitignore
